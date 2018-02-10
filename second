@@ -1,4 +1,5 @@
-You want to open a map app from an app that you’re building. The address, city, state, and ZIP code are provided by the user. What steps are involved in sending that data to a map app?
+You want to open a map app from an app that you’re building. The address, city, state, and ZIP code are provided by the user. 
+What steps are involved in sending that data to a map app?
 
 Get full address by concatinating address, city, state, ZIP code. Example after concatination:
 
