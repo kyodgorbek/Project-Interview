@@ -1,0 +1,12 @@
+
+What are your thoughts about Fragments? Do you like or hate them? Why?
+
+Answer - A Fragment represents a behavior or a portion of user interface in an Activity. 
+You can combine multiple fragments in a single activity to build a multi-pane UI and reuse a fragment in multiple activities.
+
+The main advantages of useing fragments are
+
+It helps in designing for different screen sizes.
+Data transfer between fragments are easier as compared to activities.
+Better user expererience and organisation.
+Supports advances user metaphors.
